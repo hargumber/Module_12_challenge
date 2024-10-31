@@ -1,3 +1,3 @@
 # Module_12_challenge
-NoSQL DB (MongoDB)
+NoSQL DB (MongoDB)/n
 This repository contains two jupyter notebooks that contain code to suffice the requirements of the home assignment. 
